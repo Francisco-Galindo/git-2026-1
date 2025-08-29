@@ -9,6 +9,8 @@ for i in range(10):
         print("#", end="")
     print("")
 
+print(2 + 3 * (5 / 2))
+
 print("Hola desde 'master'")
 print("Hola desde 'master' otra vez")
 print("Hola desde 'development'")
